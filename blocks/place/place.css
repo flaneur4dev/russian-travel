@@ -1,7 +1,7 @@
 .place {
   margin-bottom: 80px;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr 1.04fr;
   grid-template-rows: repeat(2, auto);
   gap: 48px 32px;
 }
