@@ -1,11 +1,8 @@
 .cover {
   max-width: 1184px;
-  max-height: 740px;
-  width: 100%;
-  height: calc(100vw*.625);
+  /* width: 100%; */
   margin: 0 auto;
   background-image: url(../../images/cover/cover__background.jpg);
-  background-size: contain;
+  background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
